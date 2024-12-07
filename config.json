@@ -1,0 +1,8 @@
+{
+  "token": "Bot TOken",
+  "clientId": "Bot Id",
+  "guildId": "Your Guild Id",
+  "inviteLink": "Your Server Invite Link",
+  "prefix": "!",
+  "mongoURI": "Your MongoBd Url"
+}
